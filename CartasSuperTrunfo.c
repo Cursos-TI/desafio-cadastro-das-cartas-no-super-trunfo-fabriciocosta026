@@ -9,7 +9,7 @@ int main() {
     float pib;
     int pontos_turisricos;
 
-    printf()
+
 
 
 
