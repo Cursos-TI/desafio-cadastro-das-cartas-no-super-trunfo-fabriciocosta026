@@ -1,13 +1,18 @@
 #include <stdio.h>
 int main() {
-    char estado;
-    int cidade_numero;
-    char codigo[4];
-    char nome[50];
-    double população;
-    float area;
-    float pib;
-    int pontos_turisricos;
+    char codigo[4] = 1;
+    int nome = Manaus;
+    int população =  2.676;
+    float area = 11.401;
+    float pib = 5.782,75;
+    int pontos_turisricos = 5;
+    
+    printf("codigo: %d\n ", codigo);
+    printf("cidade: %s\n ", cidade);
+    printf("população %e\n ", população);
+    printf("area: %e\n", area);
+    printf("pib: %s\n", pib);
+    printf("pontos_turiscos: %s\n", pontos_turisricos):
 
 
 
