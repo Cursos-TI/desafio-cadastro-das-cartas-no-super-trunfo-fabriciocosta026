@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main() {
     char codigo[4] = 1;
-    int nome = Manaus;
-    int população =  2.676;
+    int Nome = Manaus;
+    int População =  2.676;
     float area = 11.401;
-    float pib = 5.782,75;
-    int pontos_turisricos = 5;
+    float Pib = 5.782,75;
+    int Pontos_turisricos = 5;
     
     printf("codigo: %d\n ", codigo);
     printf("cidade: %s\n ", cidade);
